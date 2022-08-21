@@ -1,0 +1,20 @@
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
+
+main {
+    border: solid 3px black;
+    margin: auto 0;
+}
+
+section {
+    display: flex;
+}
+
+button {
+    flex-basis: 100%;
+}
